@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+.main{
+    color:black;
+    position: absolute;
+    left: 30%;
+    width: 600px;
+}
+.main h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+form{
+    text-align: center;
+}
+input,select{
+    width: 60%;
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    background-color:chocolate;
+    font-weight: 700;
+    font-size: 15px;
+}
+label{
+    font-size: 18px;
+    padding: 15px;
+}
+/* login page stylesheet */
+
+.login h1{
+     text-align: center;
+        font-size: 50px;
+        margin: 40px;
+}
+
+.mainlogin{
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    margin: 40px;
+    padding: 15px;
+}
+a{
+    width: 40%;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 15px;
+}
